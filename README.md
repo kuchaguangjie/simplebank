@@ -236,7 +236,7 @@ The service that we’re going to build is a simple bank. It will provide APIs f
     ```bash
     make server
     ```
-
+  * Then access swagger api at: http://localhost:8080/swagger
 - Run test:
 
     ```bash
